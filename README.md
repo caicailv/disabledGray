@@ -1,0 +1,2 @@
+去除灰色模式,仅支持bilibili.com和zhihu.com
+有其他需要支持的网址可以提issue
